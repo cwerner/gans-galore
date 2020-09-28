@@ -1,7 +1,7 @@
-# GANs galore! 🕵️‍♂️🦹‍♂️ 
+# GANs galore! 🕵️‍♂️🦹‍♂️
 A collection of GANs for experimentation and learning implemented with PyTorch
 
-> This repo is a simple collection of GAN varietes to explore the possibilities of this model type. 
+> This repo is a simple collection of GAN varietes to explore the possibilities of this model type.
 > The models are set up to train on commom toy (image) datasets. The plan ist to eventually include
 > time-series data to make this useful for work.
 

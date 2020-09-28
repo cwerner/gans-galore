@@ -1,0 +1,2 @@
+dataset: mnist
+epochs: 100

@@ -1,0 +1,8 @@
+hydra-core
+loguru
+omegaconf
+pytorch-lightning
+pytorch-lightning-bolts
+scikit_learn
+torch
+torchvision
