@@ -1,2 +1,3 @@
-dataset: mnist
-epochs: 100
+defaults:
+    - dataset: mnist
+epochs: 10
